@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harmonyzt&show_icons=true&theme=midnight-purple">
+  ![](https://raw.githubusercontent.com/harmonyt/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 </p>
