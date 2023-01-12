@@ -1,3 +1,3 @@
 <p align="center">
-  ![](https://raw.githubusercontent.com/harmonyt/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=harmonyzt&count_private=true&show_icons=true&theme=radical)
 </p>
